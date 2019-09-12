@@ -1,4 +1,4 @@
-# Hacktoberfest 2018
+# Hacktoberfest 2019
 
 A month-long celebration of open source projects run by DigitalOcean in partnership with Dev.
  - Hacktoberfest is open to everyone in our global community!
@@ -7,4 +7,4 @@ A month-long celebration of open source projects run by DigitalOcean in partners
  
 ### ZTM Hacktoberfest Projects
 
-Coming soon
+Coming soon!
